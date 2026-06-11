@@ -1,0 +1,227 @@
+[
+  {
+    "model": "lr_tfidf_seed0",
+    "model_family": "LR + TF-IDF",
+    "seed": 0,
+    "n_params": 2829,
+    "test_metrics": {
+      "accuracy": 0.9425,
+      "f1_macro": 0.9424996406227539,
+      "f1_weighted": 0.9424996406227538,
+      "precision_macro": 0.9425110627765694,
+      "recall_macro": 0.9424999999999999,
+      "auc_roc": 0.982225,
+      "confusion_matrix": [
+        [
+          189,
+          11
+        ],
+        [
+          12,
+          188
+        ]
+      ],
+      "n_samples": 400
+    }
+  },
+  {
+    "model": "lr_tfidf_seed1",
+    "model_family": "LR + TF-IDF",
+    "seed": 1,
+    "n_params": 2829,
+    "test_metrics": {
+      "accuracy": 0.9425,
+      "f1_macro": 0.9424996406227539,
+      "f1_weighted": 0.9424996406227538,
+      "precision_macro": 0.9425110627765694,
+      "recall_macro": 0.9424999999999999,
+      "auc_roc": 0.982225,
+      "confusion_matrix": [
+        [
+          189,
+          11
+        ],
+        [
+          12,
+          188
+        ]
+      ],
+      "n_samples": 400
+    }
+  },
+  {
+    "model": "lr_tfidf_seed2",
+    "model_family": "LR + TF-IDF",
+    "seed": 2,
+    "n_params": 2829,
+    "test_metrics": {
+      "accuracy": 0.9425,
+      "f1_macro": 0.9424996406227539,
+      "f1_weighted": 0.9424996406227538,
+      "precision_macro": 0.9425110627765694,
+      "recall_macro": 0.9424999999999999,
+      "auc_roc": 0.982225,
+      "confusion_matrix": [
+        [
+          189,
+          11
+        ],
+        [
+          12,
+          188
+        ]
+      ],
+      "n_samples": 400
+    }
+  },
+  {
+    "model": "lr_glove_seed0",
+    "model_family": "LR + GloVe-50d",
+    "seed": 0,
+    "n_params": 51,
+    "test_metrics": {
+      "accuracy": 0.84,
+      "f1_macro": 0.84,
+      "f1_weighted": 0.84,
+      "precision_macro": 0.84,
+      "recall_macro": 0.84,
+      "auc_roc": 0.914025,
+      "confusion_matrix": [
+        [
+          168,
+          32
+        ],
+        [
+          32,
+          168
+        ]
+      ],
+      "n_samples": 400
+    }
+  },
+  {
+    "model": "lr_glove_seed1",
+    "model_family": "LR + GloVe-50d",
+    "seed": 1,
+    "n_params": 51,
+    "test_metrics": {
+      "accuracy": 0.84,
+      "f1_macro": 0.84,
+      "f1_weighted": 0.84,
+      "precision_macro": 0.84,
+      "recall_macro": 0.84,
+      "auc_roc": 0.914025,
+      "confusion_matrix": [
+        [
+          168,
+          32
+        ],
+        [
+          32,
+          168
+        ]
+      ],
+      "n_samples": 400
+    }
+  },
+  {
+    "model": "lr_glove_seed2",
+    "model_family": "LR + GloVe-50d",
+    "seed": 2,
+    "n_params": 51,
+    "test_metrics": {
+      "accuracy": 0.84,
+      "f1_macro": 0.84,
+      "f1_weighted": 0.84,
+      "precision_macro": 0.84,
+      "recall_macro": 0.84,
+      "auc_roc": 0.914025,
+      "confusion_matrix": [
+        [
+          168,
+          32
+        ],
+        [
+          32,
+          168
+        ]
+      ],
+      "n_samples": 400
+    }
+  },
+  {
+    "model": "bilstm_seed0",
+    "model_family": "BiLSTM 1L",
+    "seed": 0,
+    "n_params": 82369,
+    "test_metrics": {
+      "accuracy": 0.9225,
+      "f1_macro": 0.922476258354121,
+      "f1_weighted": 0.922476258354121,
+      "precision_macro": 0.9230181972916823,
+      "recall_macro": 0.9225,
+      "auc_roc": 0.966575,
+      "confusion_matrix": [
+        [
+          181,
+          19
+        ],
+        [
+          12,
+          188
+        ]
+      ],
+      "n_samples": 400
+    }
+  },
+  {
+    "model": "bilstm_seed1",
+    "model_family": "BiLSTM 1L",
+    "seed": 1,
+    "n_params": 82369,
+    "test_metrics": {
+      "accuracy": 0.9125,
+      "f1_macro": 0.9124950778481289,
+      "f1_weighted": 0.9124950778481289,
+      "precision_macro": 0.9125928333875122,
+      "recall_macro": 0.9125000000000001,
+      "auc_roc": 0.955375,
+      "confusion_matrix": [
+        [
+          181,
+          19
+        ],
+        [
+          16,
+          184
+        ]
+      ],
+      "n_samples": 400
+    }
+  },
+  {
+    "model": "bilstm_seed2",
+    "model_family": "BiLSTM 1L",
+    "seed": 2,
+    "n_params": 82369,
+    "test_metrics": {
+      "accuracy": 0.92,
+      "f1_macro": 0.9199979999499988,
+      "f1_weighted": 0.9199979999499988,
+      "precision_macro": 0.92004200420042,
+      "recall_macro": 0.92,
+      "auc_roc": 0.9676249999999998,
+      "confusion_matrix": [
+        [
+          185,
+          15
+        ],
+        [
+          17,
+          183
+        ]
+      ],
+      "n_samples": 400
+    }
+  }
+]

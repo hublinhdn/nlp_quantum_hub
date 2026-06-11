@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this code or build on the experiments, please cite the accompanying paper."
+title: "nlp_quantum_hub: A Reproducible Pipeline for DisCoCat-Based Quantum Sentiment Classification on SST-2"
+authors:
+  - family-names: Do
+    given-names: Nhat-Linh
+    email: linh.do@hub.edu.vn
+    affiliation: "Faculty of Business Data Science, Banking University of Ho Chi Minh City, Vietnam"
+  - family-names: Le
+    given-names: Quang-Thai
+    email: thailq@hub.edu.vn
+    affiliation: "Faculty of Business Data Science, Banking University of Ho Chi Minh City, Vietnam"
+  - family-names: Tran-Huynh
+    given-names: Minh-Tan
+    email: tanthm@hub.edu.vn
+    affiliation: "Faculty of Management Information Systems, Banking University of Ho Chi Minh City, Vietnam"
+version: "1.0.0"
+date-released: "2026-06-11"
+license: MIT
+repository-code: "https://github.com/hublinhdn/nlp_quantum_hub"
+keywords:
+  - quantum natural language processing
+  - QNLP
+  - DisCoCat
+  - variational quantum circuits
+  - sentiment classification
+  - SST-2
+  - lambeq
+  - PennyLane
+  - barren plateau
+preferred-citation:
+  type: article
+  title: "Parameter-Efficient Quantum Sentiment Classification: A Controlled Empirical Study of DisCoCat on SST-2"
+  authors:
+    - family-names: Do
+      given-names: Nhat-Linh
+    - family-names: Le
+      given-names: Quang-Thai
+    - family-names: Tran-Huynh
+      given-names: Minh-Tan
+  year: 2026
+  journal: "Asian Journal of Data Science and Artificial Intelligence (AJDSAI)"
+  notes: "Under review."

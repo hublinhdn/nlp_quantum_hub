@@ -1,0 +1,17 @@
+McNemar test (paired) — pairs có p<0.05 → khác biệt có ý nghĩa thống kê
+
+LR + TF-IDF                         vs LR + GloVe                           b= 14  c= 55  chi2= 23.19  p=9.219e-06  ***
+LR + TF-IDF                         vs BiLSTM                               b= 11  c= 19  chi2=  1.63  p=0.4419  
+LR + TF-IDF                         vs Q-cups-iqp-L1                        b= 15  c= 37  chi2=  8.48  p=0.0144  *
+LR + TF-IDF                         vs Q-cups-iqp-L2                        b= 10  c=140  chi2=110.94  p=8.122e-25  ***
+LR + TF-IDF                         vs Q-cups-iqp-L3                        b=  9  c= 34  chi2= 13.40  p=0.001234  **
+LR + GloVe                          vs BiLSTM                               b= 55  c= 22  chi2= 13.30  p=0.001295  **
+LR + GloVe                          vs Q-cups-iqp-L1                        b= 49  c= 30  chi2=  4.10  p=0.1287  
+LR + GloVe                          vs Q-cups-iqp-L2                        b= 34  c=123  chi2= 49.32  p=1.946e-11  ***
+LR + GloVe                          vs Q-cups-iqp-L3                        b= 48  c= 32  chi2=  2.81  p=0.2451  
+BiLSTM                              vs Q-cups-iqp-L1                        b= 18  c= 32  chi2=  3.38  p=0.1845  
+BiLSTM                              vs Q-cups-iqp-L2                        b= 11  c=133  chi2=101.67  p=8.353e-23  ***
+BiLSTM                              vs Q-cups-iqp-L3                        b= 15  c= 32  chi2=  5.45  p=0.06565  
+Q-cups-iqp-L1                       vs Q-cups-iqp-L2                        b= 24  c=132  chi2= 73.39  p=1.157e-16  ***
+Q-cups-iqp-L1                       vs Q-cups-iqp-L3                        b= 26  c= 29  chi2=  0.07  p=0.9643  
+Q-cups-iqp-L2                       vs Q-cups-iqp-L3                        b=123  c= 18  chi2= 76.71  p=2.202e-17  ***

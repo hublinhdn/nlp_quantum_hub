@@ -1,0 +1,84 @@
+[Date: ____ / ____ / 2026]
+
+To: Editorial Board
+Asian Journal of Data Science and Artificial Intelligence (AJDSAI)
+Banking University of Ho Chi Minh City
+Email: ajdsai@hub.edu.vn
+
+Subject: Submission of manuscript for AJDSAI
+
+Dear Editors,
+
+We are pleased to submit our manuscript entitled "Parameter-Efficient
+Quantum Sentiment Classification: A Controlled Empirical Study of
+DisCoCat on SST-2" for consideration as a Research Paper in the
+inaugural issues of the Asian Journal of Data Science and Artificial
+Intelligence (AJDSAI).
+
+The paper investigates the practical performance of Quantum Natural
+Language Processing (QNLP) using the Distributional Compositional
+Categorical (DisCoCat) framework. We report a controlled experimental
+grid of 60 quantum training runs on the public Stanford Sentiment
+Treebank benchmark, compare against three classical baselines (LR with
+TF-IDF, LR with GloVe embeddings, and a Bidirectional LSTM), and
+analyse differences using paired McNemar tests.
+
+We believe the manuscript is a natural fit for AJDSAI for the
+following reasons:
+
+1. Topical alignment: The paper sits squarely in the intersection of
+   data science and artificial intelligence, with a clear
+   interdisciplinary character (computational linguistics, category
+   theory, quantum information).
+
+2. Practical relevance: The headline result --- a quantum model that
+   ties a comparable BiLSTM with 28 times fewer trainable parameters
+   --- has immediate practical implications for organisations seeking
+   to deploy machine learning on resource-constrained or near-term
+   quantum hardware, including potential applications in
+   customer-feedback analytics, social-media monitoring and
+   product-review classification.
+
+3. Methodological transparency: We release a fully reproducible
+   pipeline (data preparation, model training, evaluation, statistical
+   testing) and document a concrete reproducibility issue we
+   encountered in the QNLP toolchain, contributing to the broader
+   reproducibility discussion in applied AI.
+
+4. Original empirical findings: We report two methodologically
+   informative results that, to the best of our knowledge, have not
+   previously been documented in the QNLP literature on a public
+   benchmark: a representational saturation phenomenon of the Spiders
+   reader, and a reproducible barren-plateau collapse of the
+   Cups + IQP family at depth two.
+
+The manuscript has not been published previously and is not under
+consideration elsewhere. All authors have read and approved the
+submitted version and agree to its submission to AJDSAI.
+
+Manuscript statistics:
+- Word count: approximately ____ words (excluding references and
+  appendices)
+- Figures: 12
+- Tables: 3
+- References: 22
+
+We thank the editorial team for considering our work and look forward
+to your feedback.
+
+Yours sincerely,
+
+Nhat-Linh Do (corresponding author)
+Faculty of Business Data Science
+Banking University of Ho Chi Minh City, Vietnam
+Email: linh.do@hub.edu.vn
+
+Quang-Thai Le
+Faculty of Business Data Science
+Banking University of Ho Chi Minh City, Vietnam
+Email: thailq@hub.edu.vn
+
+Minh-Tan Tran-Huynh
+Faculty of Management Information Systems
+Banking University of Ho Chi Minh City, Vietnam
+Email: tanthm@hub.edu.vn

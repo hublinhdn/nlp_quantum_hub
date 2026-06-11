@@ -1,0 +1,84 @@
+# =====================================================================
+# Python
+# =====================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =====================================================================
+# Virtual environments
+# =====================================================================
+.venv/
+.venv_local/
+venv/
+env/
+.env
+
+# =====================================================================
+# Jupyter / Colab
+# =====================================================================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+.jupyter/
+
+# =====================================================================
+# Raw / processed datasets (large, regenerable via scripts/01 and 02)
+# =====================================================================
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# GloVe vectors (large, downloaded by scripts/00_download_glove.py)
+*.glove
+glove.*.txt
+
+# =====================================================================
+# Model checkpoints (regenerable via scripts/04, 06)
+# =====================================================================
+*.ckpt
+*.pt
+*.pth
+*.pkl
+*.joblib
+
+# Empty intermediate result folders (kept only as scaffolding)
+results/baseline/
+results/quantum/
+results/diagrams/
+results/eda/
+
+# =====================================================================
+# LaTeX build artefacts — keep .tex, .bib, figures, .pdf
+# =====================================================================
+papers/**/*.aux
+papers/**/*.bbl
+papers/**/*.blg
+papers/**/*.fdb_latexmk
+papers/**/*.fls
+papers/**/*.log
+papers/**/*.out
+papers/**/*.synctex.gz
+papers/**/*.toc
+papers/**/*.run.xml
+papers/**/_minted-*/
+
+# =====================================================================
+# IDE / OS / misc
+# =====================================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+*.log
+logs/
+wandb/
+mlruns/

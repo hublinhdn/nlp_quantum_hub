@@ -1,0 +1,401 @@
+text,true_label,pred,prob_pos
+in this pretentious mess,0,0,0.0058272947
+absolutely no sense .,0,0,0.010309999
+authentic and dark .,1,0,0.22032301
+too slow,0,0,0.0012461845
+entertaining his children,1,1,0.9614725
+"beauty , grace and",1,1,0.9888339
+once too often,0,0,0.015423071
+is somewhat melodramatic,0,0,0.112639315
+without thrills,0,0,0.037138425
+hard to care,0,0,0.06840841
+just lazy,0,0,0.0058213547
+"spirit , purpose and",1,1,0.6786668
+is more like,1,1,0.9984787
+far more thoughtful,1,1,0.9416921
+'s good,1,1,0.96022874
+more and more frustrating,0,0,0.0014015117
+fine idea,1,1,0.98998296
+to a dumb story,0,0,0.0021189067
+often exciting,1,1,0.9974659
+this is lame .,0,0,0.00017385103
+a lousy one,0,0,0.00790379
+to be bad,0,0,0.053133983
+dead ends and,0,0,0.044287734
+of the ugly american,0,1,0.5021964
+it 's that painful .,0,0,0.009662041
+truly wonderful tale,1,1,0.99415034
+quirky drama,1,1,0.94180703
+with big heart,1,1,0.99987394
+"dull , lifeless",0,0,0.02655177
+the first place,1,1,0.9261114
+"bad ,",0,0,0.059934497
+a solid formula,1,1,0.83027536
+watchable movie,1,1,0.9469478
+and yet completely familiar,1,1,0.68052125
+in this wildly uneven movie,0,0,0.062808834
+of hell,0,0,0.0667498
+a rather sad,0,0,0.019002467
+it 's an ambitious film,1,1,0.99112856
+well . the problem,0,0,0.0013925248
+such a bore,0,0,0.006460157
+a mess,0,0,0.00013852175
+seems so real,1,1,0.9819825
+is banal,0,0,0.010918436
+it 's no classic,0,0,0.00082675676
+"loud , ugly , irritating",0,0,0.024295809
+enough mindless violence,0,0,0.0033819184
+how bad it is,0,0,0.21997301
+extraordinary film,1,1,0.99538636
+"hollow , self-indulgent , and",0,0,0.09702563
+completely empty,0,0,0.00053045485
+of loss,0,0,2.5904405e-05
+is a decent moral,1,1,0.96776927
+painfully slow,0,0,0.008405772
+even some depth,1,1,0.99297833
+this kind of material,0,1,0.9667406
+awkward version,0,0,0.0007608783
+visually striking,1,1,0.8632351
+hollow exercise,0,0,0.0116746975
+a heartfelt story,1,1,0.98810464
+entertainment and,1,1,0.9544685
+some creepy scenes,0,0,0.015241198
+` difficult ',0,0,0.004683197
+fairly dull,0,0,0.01333539
+a pretty mediocre family film,0,1,0.96670514
+big twists,1,1,0.999386
+is small change .,0,0,0.20507862
+few ` cool ' actors,0,1,0.9006259
+"little action , almost",0,0,0.47670457
+"very , very slow .",0,0,0.004313439
+and forgettable,0,0,0.00088964007
+it magic,1,1,0.9909583
+for sick humor,0,0,0.07959115
+that delivers a surprising,1,1,0.9613578
+is more interesting,1,1,0.9795995
+of the greatest romantic comedies,1,1,0.96513695
+beautiful to look at,1,1,0.68647087
+predictable or,0,0,0.0058513037
+vivid lead performances,1,1,0.9985319
+a lazy exercise,0,0,0.011040982
+does n't make much,0,0,0.22081877
+'s real strength,1,1,0.9998966
+imaginative through out,1,0,0.4241205
+pretentious endeavor,0,0,0.03728983
+lousy one,0,0,0.006784394
+"'s funny ,",1,1,0.8918808
+bad idea for a movie,0,0,0.034601387
+", family and affection",0,1,0.9955338
+something truly new,1,1,0.9890314
+humor and insight,1,1,0.9879146
+with a completely predictable plot,0,0,0.019582082
+rich and exciting,1,1,0.9413398
+melodrama with a message,1,1,0.99996305
+universal appeal,1,1,0.99950534
+an awful movie,0,0,0.035344128
+a classic theater piece,1,1,0.93563306
+"delicate , clever",1,1,0.98567253
+hate it,0,0,0.02127007
+bad filmmaking,0,0,0.031533122
+is somewhat satisfying,1,1,0.8058747
+", powerful act",1,1,0.9848851
+yet surprisingly entertaining,1,1,0.99035555
+", slow scenes",0,0,0.036942452
+perfect show,1,1,0.9677719
+this waste,0,0,0.017386973
+", plain old",0,0,0.050145786
+makes this movie worth seeing,1,1,0.9212682
+also happens to be good,1,0,0.2172339
+as drama,0,1,0.8821241
+with an amateurish screenplay,0,0,0.0017119485
+is a brilliant movie,1,1,0.93372285
+'s no energy .,0,0,0.04236205
+so poorly,0,0,0.039294384
+not particularly,0,0,0.066949286
+their lack of chemistry,0,0,0.1781727
+especially fine,1,1,0.98754907
+entertaining but also,1,1,0.9278437
+were that grand a failure,0,0,0.0072831046
+the trash,0,0,0.0050315405
+one never,0,0,0.0082785655
+"gets more tiresome ,",0,0,0.012773068
+only excitement,1,0,0.3439861
+"boring , pretentious",0,0,0.018804966
+-- and bad --,0,0,0.037009984
+the lazy plotting,0,0,0.0063134977
+is really bad .,0,0,0.0065367846
+", b-movie",0,0,0.047229372
+in a trash can ?,0,0,0.073269024
+"it 's not original ,",0,0,0.09831272
+of the charm and little,1,0,0.11256025
+go very right,1,1,0.99568003
+without much of a story,0,0,0.029853372
+his films so memorable,1,0,0.49697116
+just another teen movie,0,0,0.16868988
+less like,0,0,0.10674116
+the dull effects,0,0,0.12585612
+satisfying entertainment,1,1,0.9997418
+a pretty big problem,0,0,0.0025697807
+quite worth,1,1,0.98896796
+polished and,1,1,0.97918063
+not smart and,0,0,0.054281853
+is particularly impressive,1,1,0.9997152
+gentle film,1,1,0.98424035
+has several strong performances,1,1,0.99716634
+a very strong back,1,0,0.077299535
+too dull to enjoy,0,1,0.9999611
+the right place ...,1,1,0.9910364
+as funny or entertaining,1,1,0.915945
+", uplifting and moving",1,1,0.99743974
+"far too clunky ,",0,0,0.023089621
+british comedy .,1,1,0.9298734
+fascinating character 's,1,1,0.9072435
+neither as funny,0,0,0.015038475
+no chemistry,0,0,0.28261247
+is far more offensive,0,0,0.0020511942
+a modest pleasure,1,1,0.99867696
+bad .,0,0,0.0070174127
+effective horror,1,0,0.4384652
+has much to recommend it,1,0,0.456072
+the amateurish,0,0,0.0008370847
+and thoroughly delightful,1,1,0.98262894
+terrible .,0,0,0.0019340472
+your face for two hours,0,0,0.13864687
+on it,1,1,0.99145705
+a solid film,1,1,0.97246075
+what you do n't see,0,0,0.013779634
+going on for too long,0,0,0.017834848
+it 's also pretty funny,1,1,0.98939914
+mediocre horror film,0,0,0.07519871
+it well worth watching,1,1,0.9999939
+that are quite touching,1,1,0.99681985
+was painful .,0,0,0.006875275
+predictable or bland,0,0,0.008744371
+a kind,1,1,0.9864118
+a thoughtful and rewarding glimpse,1,1,0.9999999
+keep it up,1,1,0.81916165
+a few cute ideas,1,1,0.92403454
+that memorable,1,1,0.9825447
+the bad sound,0,0,0.017712237
+really dumb but,0,0,0.28511178
+it 's just not scary,0,0,0.011419529
+very bright,1,1,0.9894436
+very charming and funny,1,1,0.9833945
+the vivid lead performances,1,1,0.9932273
+is really all about performances,1,1,0.54721075
+still works .,1,1,0.8621827
+a perfect film,1,1,0.98108387
+excellent acting and direction .,1,1,0.9955882
+a smart and satisfying,1,1,0.9679071
+to the bitter end,0,0,0.0009306173
+in your heart,1,1,0.9998821
+is always welcome,1,0,0.33623067
+really dumb,0,0,0.0022695644
+a real movie,1,1,0.9627182
+several strong performances,1,1,0.99732
+about as interesting,0,0,0.4359882
+and ( too ) short,0,0,0.0032965164
+vibrant charm,1,1,0.99085224
+to his day job,1,1,0.99913555
+satisfying crime drama,1,1,0.983499
+these people,0,1,0.90136415
+", amusing and unsettling",1,1,0.6678122
+"the heart ,",1,1,0.9666595
+goes down easily .,1,1,0.97473264
+extremely unfunny,0,0,0.006689035
+pretty cute,1,1,0.9994199
+be really dumb,0,0,0.0012826223
+of these young women,1,1,0.990278
+was more melodramatic,0,1,0.6451568
+most thought-provoking film,1,1,0.9985637
+goofy way,1,0,0.22186454
+a lousy movie,0,0,0.041886374
+"quirky , charming and",1,1,0.92868096
+nothing about it,0,0,0.05884905
+are poorly,0,0,0.060193967
+is one dumb movie,0,0,0.041654754
+that never,0,0,0.008115317
+hate it .,0,0,0.019312276
+ultimately winning story,1,1,0.9944839
+bland animation,0,0,0.004643837
+fails .,0,0,0.0014685385
+no good,0,0,0.027161341
+seen by anyone,1,0,0.0023886403
+"love it ,",1,1,0.8703747
+moments of breathtaking mystery,1,1,0.9715392
+bad one,0,0,0.031534925
+to loss,0,0,1.0347059e-05
+play equally well,1,0,0.41076365
+"long , slow and dreary",0,0,0.0051733595
+entirely suspenseful,1,1,0.99868804
+honest look,1,1,0.9719771
+young in spirit but,1,1,0.89101434
+delicate coming-of-age tale,1,1,0.99879044
+a poignant,1,1,0.9385202
+in this elegant entertainment,1,1,0.99655783
+the disney classic,1,1,0.9971396
+", deeply unsettling experience",0,0,0.10592453
+plenty of funny movies,1,1,0.98930186
+predictably melodramatic .,0,0,0.0057491185
+least accessible,0,1,0.8789244
+for a laugh,1,1,0.9132556
+a solid movie,1,1,0.97926205
+"first good ,",1,1,0.8711318
+stupid and pointless,0,0,0.013972497
+predictable plotting,0,0,0.0041175163
+sexy people,1,1,0.92603606
+", flat dialogue",0,0,0.013554276
+a mediocre movie,0,0,0.07369363
+some intriguing characters,1,1,0.9973794
+clever and suspenseful,1,1,0.97759116
+of psychological insight,1,1,0.99855316
+is simple and obvious,0,0,0.00026804386
+is new,1,1,0.97963005
+funny ! b . ),1,0,0.08393287
+acted and masterfully if,1,1,0.99895555
+'s too long,0,0,0.016513405
+do n't fit well together,0,0,0.23549186
+wry and engrossing,1,1,0.99405575
+its complete and utter lack,0,0,0.006460114
+no atmosphere,0,0,0.003254112
+a dumb action movie,0,0,0.03864552
+a total lack,0,0,0.19159617
+first and,0,1,0.9504006
+cold light,0,0,0.004842188
+and surprises,1,1,0.9878855
+an enjoyable film,1,1,0.99901605
+to have their kids,1,1,0.97265106
+high points,1,0,0.00018605706
+makes its point too well,1,1,0.86879253
+worst films,0,0,0.064573586
+a good film,1,1,0.97475266
+turn stupid,0,0,0.0042828447
+has all but lost,0,0,0.043135278
+most devastating,0,1,0.80719113
+brilliant in this,1,1,0.8813739
+low-budget production,0,0,0.000329788
+lousy movie,0,0,0.044909813
+completely awful,0,0,0.00045544238
+the same love story,0,0,0.1424831
+"there , done that ,",0,1,0.96643203
+bland actors,0,0,0.21320458
+more successful,1,1,0.99286056
+too mediocre,0,0,0.152281
+"an extraordinary film ,",1,1,0.94864297
+to waste their time,0,0,0.023109954
+solid filmmaking,1,1,0.971644
+go but down,0,0,0.014858576
+appealing characters,1,1,0.96860933
+a complete waste of time,0,0,0.19334485
+offensive and,0,0,0.04755862
+get to leave the theater,0,0,0.06072641
+quite tasty and,1,1,0.9409002
+"subtle , and resonant",1,0,0.45697388
+to a superior crime movie,1,1,0.7552506
+that 's pure entertainment,1,1,0.9978358
+some honest insight,1,1,0.99531937
+all pretty,1,1,0.9842344
+"a polished , sophisticated entertainment",1,1,0.94302857
+seen in years,1,1,0.9998645
+for the better,1,0,0.37371194
+the funniest jokes,1,1,0.9842465
+a gem .,1,1,0.9961872
+gets ever so wrong,0,0,0.00025116923
+a captivating new film .,1,1,0.93980587
+us happy,1,1,0.98203224
+so incredibly inane,0,0,0.019315498
+plain bored,0,0,0.0016190499
+really quite funny .,1,1,0.61875105
+the ending does n't work,0,0,0.007669096
+'s painful,0,0,0.010101253
+"depressing , even if you",0,1,0.7942721
+depressing but,0,0,0.17986088
+give you a few laughs,1,1,0.8268482
+anything but fun,0,1,0.8222712
+very good .,1,1,0.9369429
+oddly sweet,1,1,0.9917642
+artificial suspense,0,0,0.065956034
+nearly every attempt at humor,1,0,0.10659918
+fine acting moments,1,1,0.99323577
+lacks a strong narrative,0,1,0.9936355
+the most inventive,1,1,0.9975599
+to care about them,1,1,0.9964585
+bad a film,0,0,0.34094402
+and powerful narrative,1,1,0.9971604
+a terrible beauty,1,1,0.9999639
+cheap effects,0,0,0.13331684
+seems worse for the effort,0,0,0.04388147
+done well,1,1,0.9840749
+lovely ! brilliant ! ',1,1,0.95021456
+earnest debut,1,1,0.99770063
+a complete waste,0,0,0.019685863
+still seems endless,0,0,0.002798255
+make it interesting,1,1,0.9804079
+of movie that gives,1,1,0.8079136
+'s really sad,0,0,0.4805499
+an intense and effective film,1,1,0.9924202
+"boring , and",0,0,0.05256312
+'s pretty stupid .,0,0,0.014032826
+each overwrought new sequence,0,0,0.05501035
+a compelling film .,1,1,0.92592126
+flat dialogue,0,0,0.006343383
+uneven performances,0,0,0.024225753
+a drama so clumsy,0,0,0.004278853
+intriguing characters and,1,1,0.98840225
+like it,1,1,0.9914423
+", that is ,",1,1,0.9655719
+"no good jokes ,",0,0,0.02904509
+original fantasy film,1,1,0.99758387
+more than enough,1,1,0.90014166
+genuinely funny jokes,1,1,0.9810654
+a complete waste of time,0,0,0.19334485
+sharp humor and insight,1,1,0.97915906
+a terrible true story,0,1,0.92658603
+otherwise mediocre,0,0,0.009402179
+the laughs,1,1,0.9852146
+profound .,1,1,0.98783773
+best script,1,1,0.95921576
+and in the best way,1,1,0.7473872
+effort to watch this movie,0,1,0.7421026
+fresh dialogue,1,1,0.9804665
+to his best work,1,1,0.9116038
+time and art,1,1,0.98148316
+for violence,0,0,0.0023329419
+by this gentle comedy,1,1,0.99379706
+terrific special effects and,1,1,0.9522046
+", ugly exercise",0,0,0.016417513
+as the original,1,1,0.9860592
+have to be this dumb,0,0,0.011521817
+'s just plain bored,0,0,0.0012114521
+a watch,1,1,0.97410923
+look really slick,1,1,0.98804265
+cute and forgettable,0,0,0.0011751693
+-- but bad --,0,0,0.030972486
+", run-of-the-mill hollywood picture",0,0,0.08418984
+absolutely not .,0,0,0.043950643
+it 's not really funny,0,0,0.36896622
+as terrible,0,0,0.0039976407
+tired and,0,0,0.05149596
+what is the point ?,0,0,0.018703233
+have potential,1,1,0.9944881
+"the movie is amateurish ,",0,0,0.012236281
+enjoyable big movie,1,1,0.9212531
+it 's actually watchable,1,1,0.9689252
+it is missing,0,0,0.041838516
+great fun,1,1,0.95258355
+an uneven film,0,0,0.04524443
+enough to recommend,1,0,0.44929513
+this engaging film,1,1,0.97608584
+has energy,1,1,0.9917171
+tired one,0,0,0.024286898
+them good,1,1,0.9804809
+", stylish",1,1,0.9854221
+a cheap cliché,0,0,0.00014335543
+there 's no energy,0,0,0.03864996
+"silly , outrageous , ingenious",1,1,0.99981207
+delightful coming-of-age story .,1,1,0.99234915
+there is no sense,0,0,0.016896581
+what makes this film special,1,1,0.8093392
+enough funny,1,1,0.99578303
+the hell,0,0,0.19301361
+as offensive,0,0,0.0018100461
