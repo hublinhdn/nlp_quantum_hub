@@ -1,0 +1,19 @@
+Phase 6 — TEST set final results
+======================================================================
+Majority baseline: 0.5000  (balanced 50:50)
+----------------------------------------------------------------------
+LR + TF-IDF               acc=0.9425±0.0000  f1m=0.9425±0.0000  params=2,829  seeds=3
+LR + GloVe-50d            acc=0.8400±0.0000  f1m=0.8400±0.0000  params=51  seeds=3
+BiLSTM 1L                 acc=0.9183±0.0042  f1m=0.9183±0.0042  params=82,369  seeds=3
+Q-spiders-iqp-L1          acc=0.9205±0.0064  f1m=0.9205±0.0064  params=2,940  seeds=5
+Q-spiders-iqp-L2          acc=0.9205±0.0064  f1m=0.9205±0.0064  params=2,940  seeds=5
+Q-spiders-iqp-L3          acc=0.9205±0.0064  f1m=0.9205±0.0064  params=2,940  seeds=5
+Q-spiders-sim14-L1        acc=0.9205±0.0064  f1m=0.9205±0.0064  params=2,940  seeds=5
+Q-spiders-sim14-L2        acc=0.9205±0.0064  f1m=0.9205±0.0064  params=2,940  seeds=5
+Q-spiders-sim14-L3        acc=0.9205±0.0064  f1m=0.9205±0.0064  params=2,940  seeds=5
+Q-cups-iqp-L1             acc=0.8715±0.0165  f1m=0.8710±0.0167  params=983  seeds=5
+Q-cups-iqp-L2             acc=0.6280±0.0426  f1m=0.6278±0.0426  params=1,963  seeds=5
+Q-cups-iqp-L3             acc=0.8450±0.0454  f1m=0.8448±0.0455  params=2,943  seeds=5
+Q-cups-sim14-L1           acc=0.9190±0.0124  f1m=0.9190±0.0124  params=7,843  seeds=5
+Q-cups-sim14-L2           acc=0.9185±0.0082  f1m=0.9185±0.0082  params=15,683  seeds=5
+Q-cups-sim14-L3           acc=0.9210±0.0103  f1m=0.9210±0.0103  params=23,523  seeds=5
